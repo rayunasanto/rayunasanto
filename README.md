@@ -60,8 +60,6 @@ Quero desenvolver projetos que unam **automação, análise e pipelines de dados
 ## Vamos nos conectar?  
 Transformemos dados em impacto com **projetos colaborativos e soluções automatizadas**.  
 
-## 🌍💻 Vamos nos conectar?  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rayana-santos-837b251b1))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-santos-837b251b1)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayana.limasanto@gmail.com)
 
