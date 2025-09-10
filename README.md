@@ -1,4 +1,4 @@
-# Olá, eu sou a Rayana Santos!  
+# Olá, eu sou a Rayana Santos! 
 
 Profissional de Dados & Automação | Experiência em Finanças | São Paulo, Brasil  
 
