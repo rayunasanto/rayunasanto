@@ -41,12 +41,6 @@ Bem-vindo(a) ao meu perfil! Tenho paixão por transformar **dados em insights** 
 ![Fillow](https://img.shields.io/badge/Fillow-FF4500?style=for-the-badge&logo=graphql&logoColor=white) 
 ---
 
-## Explorando o Universo dos Dados  
-Minha especialização é projetar **fluxos de dados e automações eficientes**:  
-- Pipelines de ETL para dados financeiros e de negócios.  
-- Bots automatizados (Selenium, N8N, ManyChat).  
-- Dashboards para apoiar decisões estratégicas.  
-
 Sou dedicada a otimizar processos e integrar **Finanças, Engenharia de Dados e Business Intelligence**.  
 
 ---
