@@ -30,6 +30,7 @@ Bem-vindo(a) ao meu perfil! Tenho paixão por transformar **dados em insights** 
 ![Evolution API](https://img.shields.io/badge/Evolution%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Z-API](https://img.shields.io/badge/Z--API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge&logo=webhooks&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![APIs](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
