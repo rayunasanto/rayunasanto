@@ -1,4 +1,4 @@
-# Hi, I'm Rayana Santos 👋
+# Hi, I'm Rayana Santos
 
 I'm a professional with **4+ years of experience working with data and process automation**, building solutions that reduce manual work, improve operational efficiency and make workflows more intelligent.
 
@@ -30,7 +30,7 @@ In this profile I share projects related to:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🤝 Let's connect
+## Let's connect
 
 If you're interested in **data, automation or artificial intelligence**, feel free to connect or collaborate.
 
