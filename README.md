@@ -1,25 +1,8 @@
 # Hi, I'm Rayana Santos 👋
 
-AI & Automation Engineer | Machine Learning | Data & Intelligent Systems  
-
-Welcome to my GitHub profile!
-
 I'm a professional with **4+ years of experience working with data and process automation**, building solutions that reduce manual work, improve operational efficiency and make workflows more intelligent.
 
 Currently I’m expanding my work and studies in **Artificial Intelligence and Machine Learning**, with a strong interest in building **AI agents, intelligent automation systems and data-driven applications**.
-
----
-
-## 🚀 Areas of Interest
-
-- Machine Learning
-- AI Agents
-- Intelligent Process Automation
-- Generative AI Applications
-- Data-driven systems
-- Data governance and reliability
-
----
 
 ## 🧠 What you'll find here
 
@@ -31,40 +14,27 @@ In this profile I share projects related to:
 - API integrations and system orchestration  
 - Experiments with AI agents and intelligent systems  
 
----
-
-## 🛠 Technologies & Tools
+## 🛠 I code with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge&logo=sas&logoColor=white)
-
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white)
-![ManyChat](https://img.shields.io/badge/ManyChat-0084FF?style=for-the-badge&logo=messenger&logoColor=white)
-![Make](https://img.shields.io/badge/Make-5C2D91?style=for-the-badge&logo=make&logoColor=white)
-
-![APIs](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge&logo=webhooks&logoColor=white)
-
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🎯 Goal
-
-My goal is to build solutions that combine **data, automation and artificial intelligence** to create more efficient, scalable and intelligent systems.
-
----
 
 ## 🤝 Let's connect
 
 If you're interested in **data, automation or artificial intelligence**, feel free to connect or collaborate.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-santos-837b251b1)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayana.limasanto@gmail.com)
 
 <picture>
@@ -74,3 +44,4 @@ If you're interested in **data, automation or artificial intelligence**, feel fr
 </picture>
 
 ###
+
