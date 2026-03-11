@@ -1,38 +1,39 @@
-# Olá, eu sou a Rayana Santos 👋
+# Hi, I'm Rayana Santos 👋
 
 AI & Automation Engineer | Machine Learning | Data & Intelligent Systems  
 
-Bem-vindo(a) ao meu perfil!  
-Sou uma profissional com mais de **4 anos de experiência trabalhando com dados e automação de processos**, desenvolvendo soluções que reduzem tarefas manuais, aumentam eficiência operacional e tornam fluxos de trabalho mais inteligentes.
+Welcome to my GitHub profile!
 
-Atualmente estou aprofundando meus estudos e projetos em **Inteligência Artificial e Machine Learning**, com foco na criação de **agentes de IA, automação inteligente e sistemas orientados por dados**.
+I'm a professional with **4+ years of experience working with data and process automation**, building solutions that reduce manual work, improve operational efficiency and make workflows more intelligent.
 
----
-
-## 🚀 Áreas de Interesse
-
-- **Machine Learning**
-- **AI Agents**
-- **Automação de processos**
-- **Aplicações com IA Generativa**
-- **Sistemas orientados por dados**
-- **Governança e confiabilidade de dados**
+Currently I’m expanding my work and studies in **Artificial Intelligence and Machine Learning**, with a strong interest in building **AI agents, intelligent automation systems and data-driven applications**.
 
 ---
 
-## 🧠 O que você vai encontrar aqui
+## 🚀 Areas of Interest
 
-Neste perfil compartilho projetos relacionados a:
-
-- Automação de processos com dados
-- Construção de pipelines e fluxos automatizados
-- Aplicações práticas de Machine Learning
-- Integração de APIs e sistemas
-- Experimentos com agentes de IA e automação inteligente
+- Machine Learning
+- AI Agents
+- Intelligent Process Automation
+- Generative AI Applications
+- Data-driven systems
+- Data governance and reliability
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🧠 What you'll find here
+
+In this profile I share projects related to:
+
+- Data automation and workflow optimization  
+- Data pipelines and process automation  
+- Practical Machine Learning applications  
+- API integrations and system orchestration  
+- Experiments with AI agents and intelligent systems  
+
+---
+
+## 🛠 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
@@ -52,16 +53,16 @@ Neste perfil compartilho projetos relacionados a:
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Goal
 
-Construir soluções que integrem **dados, automação e inteligência artificial** para criar sistemas mais eficientes, escaláveis e inteligentes.
+My goal is to build solutions that combine **data, automation and artificial intelligence** to create more efficient, scalable and intelligent systems.
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 🤝 Let's connect
 
-Se quiser conversar sobre **dados, automação ou inteligência artificial**, será um prazer trocar ideias.
+If you're interested in **data, automation or artificial intelligence**, feel free to connect or collaborate.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-santos-837b251b1)
 
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayana.limasanto@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayana.limasanto@gmail.com)
