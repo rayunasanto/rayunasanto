@@ -1,40 +1,79 @@
-# Hi, I'm Rayana Santos
+# Hi, I'm Rayana Santos 👋
 
-I'm a professional with **4+ years of experience working with data and process automation**, building solutions that reduce manual work, improve operational efficiency and make workflows more intelligent.
+AI Engineer focused on building intelligent systems powered by Generative AI, Machine Learning and Automation.
 
-Currently I’m expanding my work and studies in **Artificial Intelligence and Machine Learning**, with a strong interest in building **AI agents, intelligent automation systems and data-driven applications**.
+Over the last 4+ years, I've designed and delivered solutions that combine data, AI and process automation to solve real business problems, ranging from enterprise workflow automation to production-ready AI applications.
 
-## 🧠 What you'll find here
+My current focus is on:
 
-In this profile I share projects related to:
+- AI Agents & Multi-Agent Systems
+- Generative AI Applications
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning & Predictive Models
+- LLMOps & Observability
+- Workflow Automation & System Integration
+- Cloud-Native AI Architectures
 
-- Data automation and workflow optimization  
-- Data pipelines and process automation  
-- Practical Machine Learning applications  
-- API integrations and system orchestration  
-- Experiments with AI agents and intelligent systems  
+## 🚀 Featured Areas
 
-## 🛠 I code with
+### AI Engineering
+- AI Agents with LangGraph and LangChain
+- Multi-Agent Architectures
+- RAG Pipelines
+- OpenAI, Claude and AWS Bedrock
+- LLM Evaluation and Observability
+- Prompt Engineering
+
+### Machine Learning
+- Classification Models
+- Regression Models
+- Time Series Forecasting
+- Feature Engineering
+- Scikit-Learn, XGBoost and LightGBM
+
+### Automation & Data
+- Python Automation
+- API Integrations
+- ETL Pipelines
+- Workflow Orchestration
+- Power Platform
+- n8n and Make
+
+### Cloud & Infrastructure
+- AWS
+- Azure
+- Kubernetes
+- Docker
+- GitHub Actions
+- PostgreSQL
+- MongoDB
+
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![N8N](https://img.shields.io/badge/N8N-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Let's connect
+## 📫 Let's Connect
 
-If you're interested in **data, automation or artificial intelligence**, feel free to connect or collaborate.
+If you're interested in AI Engineering, Agentic AI, Machine Learning, Automation or Data Platforms, feel free to connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-santos-837b251b1)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayana.limasanto@gmail.com)
 
 <picture>
@@ -42,6 +81,3 @@ If you're interested in **data, automation or artificial intelligence**, feel fr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayunasanto/rayunasanto/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayunasanto/rayunasanto/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
